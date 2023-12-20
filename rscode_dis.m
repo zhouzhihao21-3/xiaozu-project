@@ -1,4 +1,4 @@
-%计算两个RS码的码子程序：
+%计算出两个RS码的码子程序：
 function dis = rscode_dis(code1,code2)
 dis = 0;
 for i = 1:7
